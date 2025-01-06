@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar-brand{
+    text-align: center;
+
+}
+.img{
+    padding-left:30%;
+
+}
+.btn333{
+    display: flex;
+}
+.QR{
+    display: flex;
+}
+.QR.img{
+    padding-left: 50px;
+}
+.text-1{
+    font-size: 30px;
+    color: rgb(80, 35, 20);
+    l
+    
+}
